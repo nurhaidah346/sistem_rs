@@ -23,6 +23,8 @@ include_once ("config.php");
 <a href="rawat_pasien.php">Data Perawat Pasien</a>
 <h3></h3>
 <a href="pengobatan_pasien.php">Data Pengobatan Pasien</a>
+<h3></h3>
+<a href="logout.php">Logout</a>
 </table>
 
 </body>
